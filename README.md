@@ -51,3 +51,5 @@ The *Post Human* series channels the aesthetic of 2000s cyber-futurism, bringing
 --- 
 
 **Prepare for the future. Reclaim your essence. Welcome to the CyberTribe.**
+
+<img src="yo.jpg" width="1000">
